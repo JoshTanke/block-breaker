@@ -1,2 +1,2 @@
 # block-breaker
-an arkanoid clone
+an arkanoid clone built with Unity and C#
